@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on  
-  **Transforming Organizational Documentation with Doc AI Agent**
+  **Full Stack Applications and RAG-based Systems**
 - 🌱 I’m currently learning  
   **RAG, Backend Development, System Design**
 - 💬 Ask me about  
