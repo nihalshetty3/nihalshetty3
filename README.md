@@ -18,7 +18,6 @@
 ### 🔗 Profiles
 <p>
 💼 <a href="https://www.linkedin.com/in/h-nihal-shetty-4b5069288/">LinkedIn</a><br>
-💻 <a href="https://leetcode.com/u/nihal__shetty/">LeetCode</a>
 </p>
 
 ---
