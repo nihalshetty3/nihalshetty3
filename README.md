@@ -64,7 +64,7 @@
 ### 📄 Resume
 
 <p>
-<a href="https://drive.google.com/file/d/1zUdpUBsl1wVE15sMkNaRYk0XusNEZAdL/view?usp=drive_link">
+<a href=https://drive.google.com/file/d/12c7mJ204KBnY-ZfzpWAO1FiR9G8D9Sh6/view?usp=sharing>
 📄 View Resume
 </a>
 </p>
